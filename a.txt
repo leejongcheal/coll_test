@@ -2,4 +2,7 @@ coll1
 office1
 coll2
 office2
+home1
+coll2
+home2
 coll3
